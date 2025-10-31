@@ -17,3 +17,12 @@ Nos muestra **TODOS** los procesos del sistema, pero no sólo los nuestros, tamb
 
 **Captura:**  
 ![PS2](img/PS2.png)
+
+**Comando:**  
+`ps -u alumno`
+
+**Explicación rápida:**  
+Nos muestra los procesos que están siendo ejectuados por el usuario **alumno**, es bastante útil si queremos ver que tareas está ejectuando ese usuario, cuánta CPU está consumiendo o cuánta memoria está utilizando.
+
+**Captura:**  
+![PS3](img/PS3.png)

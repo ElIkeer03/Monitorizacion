@@ -4,7 +4,7 @@
 `ps aux`
 
 **Explicación rápida:**  
-Muestra todos los procesos que están corriendo en el sistema, quién los lanzó y cuánta memoria o CPU usan. Básicamente te deja ver qué está haciendo tu PC por dentro.
+Muestra una lista de los procesos que están corriendo en tu sistema actualmente, te muestra quién los está ejecutando, cuánta memoria y CPU usan.
 
 **Captura:**  
 ![PS1](img/PS1.png)

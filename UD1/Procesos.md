@@ -35,3 +35,12 @@ Nos muestra una pantalla en **tiempo real** de los procesos que están siendo ej
 
 **Captura:**  
 ![TOP1](img/TOP1.png)
+
+**Comando:**  
+`top -b -n 3 > top.info`
+
+**Explicación rápida:**  
+Este comando nos mostrará en pantalla en **tiempo real** los procesos que están siendo ejecutados y se guarda en un archivo llamado "top.info" (muy útil si queremos mandarlo a algún otro usuario).
+
+**Captura:**  
+![TOP2](img/TOP2.png)

@@ -1,4 +1,4 @@
-## 🧠 Proceso 1: Ver procesos activos
+##  Procesos:
 
 **Comando:**  
 `ps aux`

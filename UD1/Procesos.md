@@ -53,3 +53,17 @@ Es una manera más moderna y visual del comando "top", nos mostrará los proceso
 
 **Captura:**  
 ![TOP3](img/TOP3.png)
+
+---
+
+## EJERCICIO PRÁCTICO
+
+**Comando:**  
+`ps -eo user,pid,%cpu,comm --sort=-%cpu | head -n 6`
+
+**Explicación rápida:**  
+Muestra los **5 procesos que más CPU usan**, junto con el **usuario**, el **PID**, el **porcentaje de CPU** y el **nombre del comando** que se está ejecutando.
+
+**Captura:**  
+![EJ1](img/EJ1.png)
+

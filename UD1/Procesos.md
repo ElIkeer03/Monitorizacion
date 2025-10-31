@@ -44,3 +44,12 @@ Este comando nos mostrará en pantalla en **tiempo real** los procesos que está
 
 **Captura:**  
 ![TOP2](img/TOP2.png)
+
+**Comando:**  
+`htop`
+
+**Explicación rápida:**  
+Es una manera más moderna y visual del comando "top", nos mostrará los procesos en tiempo real pero con colores, barras y una interfaz que se puede mover con el propio teclado (cómo filtrar usuarios o procesos).
+
+**Captura:**  
+![TOP3](img/TOP3.png)

@@ -26,3 +26,12 @@ Nos muestra los procesos que están siendo ejectuados por el usuario **alumno**,
 
 **Captura:**  
 ![PS3](img/PS3.png)
+
+**Comando:**  
+`ps -u alumno`
+
+**Explicación rápida:**  
+Nos muestra una pantalla en **tiempo real** de los procesos que están siendo ejecutados, se ordenan por el uso de CPU o de la memoria (es básicamente cómo un administrador de tareas de Windows).
+
+**Captura:**  
+![TOP1](img/TOP1.png)

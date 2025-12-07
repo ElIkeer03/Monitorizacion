@@ -9,3 +9,11 @@ Muestra una lista de los procesos que están corriendo en tu sistema actualmente
 **Captura:**  
 ![PS1](img/free.png)
 
+**Comandos 1:**  
+`df -h | df -hT | df -h /`
+
+**Explicación rápida:**  
+Muestra una lista de los procesos que están corriendo en tu sistema actualmente, te muestra quién los está ejecutando, cuánta memoria y CPU usan.
+
+**Captura:**  
+![PS1](img/fre.png)

@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Estado-Finalizado-success) ![Curso](https://img.shields.io/badge/Curso-2º_ASIR-blue) ![Asignatura](https://img.shields.io/badge/Asignatura-Optativa-orange)
 
 ![Banner](UD1/img/banner.png)
-*<sub>**Imagen generada con IA**</sub>*
+###### *<sub>**Imagen generada con IA**</sub>*
 
 Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación técnica y los scripts desarrollados para cada Unidad Didáctica (UD) del curso.
 

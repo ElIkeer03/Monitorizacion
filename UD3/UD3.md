@@ -4,7 +4,7 @@
 `sudo tcpdump`
 
 **Explicación rápida:**  
-Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da en KB, el -h lo que hace es traducir las cifras a unidades legibles cómo MB y GB y -s 3 nos actualiza los datos en pantalla cada 3 segundos.
+Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
 
 **Captura:**  
 ![PS1](img/tcp.png)
@@ -13,7 +13,7 @@ Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da 
 `tcptrack -i [TARJETA_DE_LA_RED`
 
 **Explicación rápida:**  
-Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da en KB, el -h lo que hace es traducir las cifras a unidades legibles cómo MB y GB y -s 3 nos actualiza los datos en pantalla cada 3 segundos.
+Te muestra en vivo las conexiones que hay abiertas y la velocidad de cada una, útil para vigilar el consumo en tiempo real.
 
 **Captura:**  
 ![PS1](img/track.png)
@@ -22,7 +22,7 @@ Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da 
 `iptraf`
 
 **Explicación rápida:**  
-Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da en KB, el -h lo que hace es traducir las cifras a unidades legibles cómo MB y GB y -s 3 nos actualiza los datos en pantalla cada 3 segundos.
+Es un panel más completo con menús que te da estadísticas detalladas de los paquetes y conexiones de toda la red.
 
 **Captura:**  
 ![PS1](img/iptraf.png)
@@ -31,7 +31,7 @@ Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da 
 `bmon`
 
 **Explicación rápida:**  
-Nos enseñan el estado de la memoria RAM y la swap, el comando del tirón lo da en KB, el -h lo que hace es traducir las cifras a unidades legibles cómo MB y GB y -s 3 nos actualiza los datos en pantalla cada 3 segundos.
+Saca unas gráficas en la terminal para ver de forma visual cuánto tráfico de subida y bajada estás teniendo en ese momento.
 
 **Captura:**  
 ![PS1](img/bmon.png)

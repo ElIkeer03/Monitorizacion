@@ -35,3 +35,12 @@ Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes 
 
 **Captura:**  
 ![PS1](img/nmapsn.png)
+
+**Comando 5:**  
+`nmap --top-ports 100 -sV [IP]`
+
+**Explicación rápida:**  
+Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
+
+**Captura:**  
+![PS1](img/nmaptop.png)

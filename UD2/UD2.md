@@ -26,3 +26,12 @@ Muestra una lista de los procesos que están corriendo en tu sistema actualmente
 
 **Captura:**  
 ![PS1](img/du.png)
+
+**Comando 4:**  
+`iostat -x nombre_del_disco 5`
+
+**Explicación rápida:**  
+Muestra una lista de los procesos que están corriendo en tu sistema actualmente, te muestra quién los está ejecutando, cuánta memoria y CPU usan.
+
+**Captura:**  
+![PS1](img/iostat.png)

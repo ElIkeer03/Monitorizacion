@@ -44,3 +44,12 @@ Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes 
 
 **Captura:**  
 ![PS1](img/nmaptop.png)
+
+**Comando 6:**  
+`arp -a`
+
+**Explicación rápida:**  
+Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
+
+**Captura:**  
+![PS1](img/arpa.png)

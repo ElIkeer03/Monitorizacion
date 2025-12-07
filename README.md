@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Estado-Finalizado-success) ![Curso](https://img.shields.io/badge/Curso-2º_ASIR-blue) ![Asignatura](https://img.shields.io/badge/Asignatura-Optativa-orange)
 
-![Mi Foto de Perfil](https://lh3.googleusercontent.com/gg-dl/ABS2GSlOcfaPRWOjfTq6pRQPzoqhhG2-lSIIt0sVHu6evRXaYPODym-jBNwlovLgaA4xmzT0uz-rUCv50HRKHVj2t6wCKnoF6k_AKUI-NdHgvqt1-6-tC02ZRN_8uKG8wn2MNjVN5gApynth9e6qwM-ipwr_i2LLFv6ZQhYDEWSIZF_qDQkvWw=s1024-rj)
+![Banner](UD1/img/nombre_de_tu_imagen.png)
 
 Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación técnica y los scripts desarrollados para cada Unidad Didáctica (UD) del curso.
 

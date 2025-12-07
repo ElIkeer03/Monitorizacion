@@ -10,10 +10,10 @@ Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación 
 
 | Unidad | Título / Descripción | Estado |
 | :---: | :--- | :---: |
-| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop, kill, nice, renice..._ | ✅ |
+| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop..._ | ✅ |
 | [**UD2**](./UD2/UD2.md) | **Memoria, espacio y rendimiento de disco** <br> _Descripción breve de lo que va esta práctica._ | ✅ |
 | [**UD3**](./UD3/UD3.md) | **Tráfico de red** <br> _Descripción breve de lo que va esta práctica._ | ✅ |
-| [**UD4**](./UD4/UD4.md) | **Monitorización y Análisis de Red** <br> _Uso de ss, nmap, wireshark, tráfico en vivo._ | ✅ |
+| [**UD4**](./UD4/UD4.md) | **Monitorización y Análisis de Red** <br> _Uso de ss..._ | ✅ |
 
 ---
 

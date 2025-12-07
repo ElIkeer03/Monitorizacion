@@ -1,55 +1,15 @@
-## Puertos
+# Puertos
 
-**Comando 1:**  
-`ss -ntop`
+![Status](https://img.shields.io/badge/Estado-Finalizado-success) ![Curso](https://img.shields.io/badge/Curso-2º_ASIR-blue) ![Sistema](https://img.shields.io/badge/OS-Ubuntu_Linux-orange)
 
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
+Documentación técnica de los comandos utilizados para el análisis de sockets, descubrimiento de hosts y tablas ARP.
 
-**Captura:**  
-![PS1](img/ssntop.png)
+---
 
-**Comando 2:**  
-`ss -tnp`
+## 1. Monitorización de Sockets
 
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
+### 📊 Conexiones detalladas (con timers)
+Muestra todas las conexiones TCP establecidas sin resolver nombres de dominio (para mayor velocidad).
 
-**Captura:**  
-![PS1](img/sstnp.png)
-
-**Comando 3:**  
-`whois [IP]`
-
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
-
-**Captura:**  
-![PS1](img/whois.png)
-
-**Comando 4:**  
-`nmap -sn [IP]`
-
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
-
-**Captura:**  
-![PS1](img/nmapsn.png)
-
-**Comando 5:**  
-`nmap --top-ports 100 -sV [IP]`
-
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
-
-**Captura:**  
-![PS1](img/nmaptop.png)
-
-**Comando 6:**  
-`arp -a`
-
-**Explicación rápida:**  
-Captura el tráfico "en crudo" y te vuelca toda la información de los paquetes en pantalla para analizarla a fondo.
-
-**Captura:**  
-![PS1](img/arpa.png)
+```bash
+sudo ss -ntop

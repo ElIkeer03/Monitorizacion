@@ -6,7 +6,7 @@ Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación 
 
 ---
 
-## 📑 Índice de Unidades
+## Índice de Unidades
 
 | Unidad | Título / Descripción | Estado |
 | :---: | :--- | :---: |
@@ -17,7 +17,7 @@ Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación 
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

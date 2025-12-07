@@ -1,8 +1,10 @@
 # Repositorio de Monitorización
 
-![Status](https://img.shields.io/badge/Estado-En_Progreso-yellow) ![Curso](https://img.shields.io/badge/Curso-2º_ASIR-blue) ![Asignatura](https://img.shields.io/badge/Asignatura-HLC-orange)
+![Status](https://img.shields.io/badge/Estado-Finalizado-success) ![Curso](https://img.shields.io/badge/Curso-2º_ASIR-blue) ![Asignatura](https://img.shields.io/badge/Asignatura-Optativa-orange)
 
-Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación técnica de cada Unidad Didáctica (UD) del curso.
+![Banner](img/banner.png)
+
+Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación técnica y los scripts desarrollados para cada Unidad Didáctica (UD) del curso.
 
 ---
 
@@ -10,10 +12,10 @@ Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación 
 
 | Unidad | Título / Descripción | Estado |
 | :---: | :--- | :---: |
-| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop..._ | ✅ |
-| [**UD2**](./UD2/UD2.md) | **Memoria, espacio y rendimiento de disco** <br> _uso de memoria, espacio..._ | ✅ |
-| [**UD3**](./UD3/UD3.md) | **Tráfico de red** <br> _uso de tráfico de red..._ | ✅ |
-| [**UD4**](./UD4/UD4.md) | **Monitorización y Análisis de Red** <br> _Uso de ss..._ | ✅ |
+| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop, kill, nice, renice..._ | ✅ |
+| [**UD2**](./UD2/UD2.md) | **Memoria, espacio y rendimiento de disco** <br> _Análisis de RAM, SWAP y almacenamiento (free, vmstat, df, du)._ | ✅ |
+| [**UD3**](./UD3/UD3.md) | **Tráfico de red** <br> _Conceptos base sobre flujo de datos y protocolos._ | ✅ |
+| [**UD4**](./UD4/UD4.md) | **Monitorización y Análisis de Red** <br> _Herramientas avanzadas: nmap, ss, tcpdump, bmon._ | ✅ |
 
 ---
 

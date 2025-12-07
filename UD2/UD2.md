@@ -16,4 +16,4 @@ Muestra una lista de los procesos que están corriendo en tu sistema actualmente
 Muestra una lista de los procesos que están corriendo en tu sistema actualmente, te muestra quién los está ejecutando, cuánta memoria y CPU usan.
 
 **Captura:**  
-![PS1](img/fre.png)
+![PS1](img/df.png)

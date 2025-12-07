@@ -12,9 +12,9 @@ Bienvenido a mi repositorio de prácticas. Aquí encontrarás la documentación 
 
 | Unidad | Título / Descripción | Estado |
 | :---: | :--- | :---: |
-| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop, kill, nice, renice..._ | ✅ |
-| [**UD2**](./UD2/UD2.md) | **Memoria, espacio y rendimiento de disco** <br> _Análisis de RAM, SWAP y almacenamiento (free, vmstat, df, du)._ | ✅ |
-| [**UD3**](./UD3/UD3.md) | **Tráfico de red** <br> _Conceptos base sobre flujo de datos y protocolos._ | ✅ |
+| [**UD1**](./UD1/UD1.md) | **Monitorización de Procesos en Linux** <br> _Gestión de ps, top, htop..._ | ✅ |
+| [**UD2**](./UD2/UD2.md) | **Memoria, espacio y rendimiento de disco** <br> _Análisis de RAM, SWAP y almacenamiento (free, iostat, df, du)._ | ✅ |
+| [**UD3**](./UD3/UD3.md) | **Tráfico de red** <br> _comandos base sobre datos y protocolos._ | ✅ |
 | [**UD4**](./UD4/UD4.md) | **Monitorización y Análisis de Red** <br> _Herramientas avanzadas: nmap, ss, tcpdump, bmon._ | ✅ |
 
 ---
